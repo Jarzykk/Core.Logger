@@ -4,9 +4,6 @@
   "displayName": "[Unity Core] - Logging.Core",
   "description": "Logging for Unity",
   "unity": "2020.3",
-  "unityRelease": "0b5",
-  "documentationUrl": "https://github.com/Unity-Core/com.stripedarts.uc.log.core/blob/master/README.md",
-  "changelogUrl": "https://github.com/Unity-Core/com.stripedarts.uc.log.core/blob/master/CHANGELOG.md",
   "dependencies": {
     "com.svermeulen.extenject": "9.2.1"
   },
@@ -14,11 +11,6 @@
     "unity core",
     "logging"
   ],
-  "author": "Unity Core",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:Unity-Core/com.stripedarts.uc.log.core.git"
-  },
   "samples": [
     {
       "displayName": "Logger Samples",
