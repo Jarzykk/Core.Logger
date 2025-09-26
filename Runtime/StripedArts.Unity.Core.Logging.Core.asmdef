@@ -1,0 +1,15 @@
+﻿{
+  "name": "StripedArts.Unity.Core.Logging.Core",
+  "rootNamespace": "StripedArts.Unity.Core.Logging.Core",
+  "references": [
+    "Zenject"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}

@@ -1,0 +1,15 @@
+﻿{
+  "name": "StripedArts.Unity.Core.Logging.Core.Editor",
+  "rootNamespace": "StripedArts.Unity.Logging.Core",
+  "references": [],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}
